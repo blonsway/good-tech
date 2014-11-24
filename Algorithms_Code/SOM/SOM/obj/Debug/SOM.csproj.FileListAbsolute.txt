@@ -1,0 +1,6 @@
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\SOM\SOM\bin\Debug\SOM.exe.config
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\SOM\SOM\bin\Debug\SOM.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\SOM\SOM\bin\Debug\SOM.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\SOM\SOM\obj\Debug\SOM.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\SOM\SOM\obj\Debug\SOM.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\SOM\SOM\obj\Debug\SOM.pdb
