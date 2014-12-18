@@ -1,6 +1,0 @@
-C:\Work drive\visual studio projects\SOM Initialization\SOM Initialization\bin\Debug\SOM Initialization.exe.config
-C:\Work drive\visual studio projects\SOM Initialization\SOM Initialization\bin\Debug\SOM Initialization.exe
-C:\Work drive\visual studio projects\SOM Initialization\SOM Initialization\bin\Debug\SOM Initialization.pdb
-C:\Work drive\visual studio projects\SOM Initialization\SOM Initialization\obj\Debug\SOM Initialization.csprojResolveAssemblyReference.cache
-C:\Work drive\visual studio projects\SOM Initialization\SOM Initialization\obj\Debug\SOM Initialization.exe
-C:\Work drive\visual studio projects\SOM Initialization\SOM Initialization\obj\Debug\SOM Initialization.pdb
